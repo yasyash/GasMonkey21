@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /home/ilit/weather/web/server
+npm run server
